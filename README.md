@@ -6,6 +6,6 @@ https://kevinlin91.github.io/2019_DM_Sinica/frequent_pattern/Association_Rule.sl
 # classification 
 https://kevinlin91.github.io/2019_DM_Sinica/classification/Classification.slides.html#/
 # clustering 
-
+https://kevinlin91.github.io/2019_DM_Sinica/clustering/Clustering.slides.html
 # social network
 https://kevinlin91.github.io/2019_DM_Sinica/social_network/Networkx.slides.html#/
